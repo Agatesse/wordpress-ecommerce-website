@@ -1,0 +1,70 @@
+2018-03-21T14:45:52+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T15:58:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T15:58:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T15:58:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T15:59:26+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T16:00:10+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
+2018-03-21T16:00:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_multi_init() in /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/inc/utils.php:17
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/simple-social-buttons/simple-social-buttons.php(170): ssb_fetch_shares_via_curl_multi(Array)
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): SimpleSocialButtonsPR->ajax_fetch_fresh_data('')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_ssb_fet...')
+#5 {main}
+  thrown
+
